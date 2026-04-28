@@ -13,10 +13,11 @@ Building microservices in Go and smart contracts in Solidity for DeFi protocols.
 - **Solidity**: 20+ contracts deployed on Ethereum, Arbitrum, Optimism, Base
 - **DeFi**: Uniswap V3 fork, Aave fork, FPMM prediction market, on-chain liquidator
 
-## Stack
+## Languages and Tools
 
-`Go` `gRPC` `echo` `PostgreSQL` `MongoDB` `Redis` `RabbitMQ` `Docker` `CI/CD`
-`Solidity` `Hardhat` `Foundry` `ERC-20` `ERC-721` `Python`
+<p>
+  <img src="https://skillicons.dev/icons?i=go,solidity,python,ts,postgres,mongodb,redis,rabbitmq,docker,git,github,linux&theme=dark" alt="Tech Stack">
+</p>
 
 ## Contact
 
