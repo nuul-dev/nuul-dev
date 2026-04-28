@@ -1,6 +1,8 @@
 <!-- markdownlint-disable MD033 MD041 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=80&section=header" width="100%">
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Ilya+Shimanskiy;Golang+Developer;Solidity+Developer;Building+DeFi+Infrastructure&font=Fira+Code&center=true&width=440&height=50&duration=3000&pause=1000&color=2563EB" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Ilya+Shimanskiy;Golang+Developer;Solidity+Developer;Building+DeFi+Infrastructure&font=Fira+Code&center=true&width=440&height=50&duration=3000&pause=1000&color=6A5ACD" alt="Typing SVG">
 </p>
 
 **Backend Go Engineer | Solidity Developer | Web3**
@@ -23,3 +25,5 @@ Building microservices in Go and smart contracts in Solidity for DeFi protocols.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@ilya__SSh-2CA5E0?style=flat&logo=telegram)](https://t.me/ilya_SSh)
 [![Email](https://img.shields.io/badge/Email-bugagashenka.shelly@gmail.com-D14836?style=flat&logo=gmail)](mailto:bugagashenka.shelly@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=80&section=footer" width="100%">
