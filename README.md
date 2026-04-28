@@ -1,4 +1,7 @@
-# Hi, I'm Ilya Shimanskiy
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Ilya+Shimanskiy;Golang+Developer;Solidity+Developer;Building+DeFi+Infrastructure&font=Fira+Code&center=true&width=440&height=50&duration=3000&pause=1000&color=2563EB" alt="Typing SVG">
+</p>
 
 **Backend Go Engineer | Solidity Developer | Web3**
 
