@@ -23,7 +23,7 @@ Building microservices in Go and smart contracts in Solidity for DeFi protocols.
 
 ## Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ilya__SSh-2CA5E0?style=flat&logo=telegram)](https://t.me/illil0x)
+[![Telegram](https://img.shields.io/badge/Telegram-@illil0x-2CA5E0?style=flat&logo=telegram)](https://t.me/illil0x)
 [![Email](https://img.shields.io/badge/Email-bugagashenka.shelly@gmail.com-D14836?style=flat&logo=gmail)](mailto:bugagashenka.shelly@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=80&section=footer" width="100%">
